@@ -3,36 +3,43 @@ tags:
   - GMT
   - moderator
   - moderators
-outdated: true
-outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
+  - chat mod
 ---
 
 # Küresel Moderasyon Takımı
 
-**Küresel Moderasyon Takımı** *(Global Moderation Team)* (eski ismiyle Global Mod Takımı, Adminler, ya da GreenBAT), yaygın adıyla **GMT**, temel olarak oyuncu moderasyonu ve takım ile topluluğun bütününü etkileyen konular ile ilgilenen topluluk üyeleridir.
+*Ayrıca bakınız: [Mod (anlam ayrımı)](/wiki/Disambiguation/Mod).*
+
+**Küresel Moderasyon Takımı** *(Global Moderation Team)* (eski ismiyle Global Mod Takımı, Adminler, ya da GreenBAT), yaygın adıyla **GMT**, temel olarak oyuncu moderasyonu ve takım ile topluluğun bütününü etkileyen konular ile ilgilenen topluluk üyeleridir. Onlar, oyun içinde kırmızı ve forumlarda limon yeşili olan kullanıcı ünvanları ve isim renkleriyle ayırt edilirler.  
 
 **Tüm Küresel Moderatörler, normal [Topluluk Kurallarının](/wiki/Rules) yanısıra, [İştirakçi Etik Davranış Kurallarına](/wiki/Contributor_Code_of_Conduct) uyacaklarına dair ant içmişlerdir.**
 
-Eğer Küresel Moderasyon Takımının herhangi bir üyesinin uygunsuz davrandığını (ya da İştirakçi Etik Davranış Kurallarına aykırı davrandığını) görürseniz, lütfen olabildiğince fazla bilgiyle birlikte derhal [abuse@ppy.sh](mailto:abuse@ppy.sh) e-posta adresiyle iletişime geçin. Daha fazla bilgi için, [Kötüye Kullanım Bildirme](/wiki/Reporting_Bad_Behaviour/Abuse) sayfasına göz atın.
-
 ## Rol ve sorumluluklar
 
-Küresel Moderasyon Takımı sohbet ve forum ortamının düzeninden sorumlu olmanın yanı sıra topluluk içerisindeki etkileşimleri de gözetlerler. Sohbette (susturulma, taciz gibi) veya forumda (gereksiz/spam, uygunsuz yorumlar gibi) oluşan sorunlar dahil olmak üzere (ama bunlarla sınırlı kalmadan) oyunun moderasyon kısmıyla ilgili herhangi bir sorununuz olduğunda onlara ulaşmalısınız.
+***Not: Uygunsuz davranış sergileyen veya İştirakçi Etik Davranış Kurallarına uymayan bir moderatörü bildirmek için, [hesap destek ekibiyle](/wiki/People/The_Team/Account_support_team#support@ppy.sh) iletişime geçin.***\
+*Ayrıca bakınız: [Olumsuz Davranış Bildirme](/wiki/Reporting_Bad_Behaviour)*
 
-## Küresel Moderasyon Takımı üyesi olmak
+Küresel Moderasyon Takımı sohbetin ve forumun düzeninden sorumludurlar, ve topluluk içerisindeki etkileşimleri gözetirler. Oyunun moderasyon kısmıyla ilgili konularda onlara danışılmalıdır. Bu konular, aşağıdakilerle sınırlı olmaksızın, şunları içerir:
+
+- sohbet içerisindeki sorunlar (örn. spam veya rahatsız edici davranış)
+- forumdaki uygunsuz davranışlar (örn. uygunsuz gönderiler)
+- beatmap tartışma ve yorum kısımları
+- kullanıcı profili moderasyonu (avatarlarda, profil kapak resimlerinde ya da detaylarında vs. bulunan müstehcen veya diğer bir şekilde ofansif içerikler)
+
+## Moderatör olmak
 
 Küresel Moderasyon Takımı üyesi olmak dikkate değer bir miktar katkıda bulunmayı gerektiriyor. Potansiyel üyeler sık sık diğer kullanıcılara yardım etmeye yönelik hevesleri, topluluk içerisindeki aktiflikleri, olumlu tavır ve davranışları sayesinde farkedilirler. İngilizcenin yanısıra farklı bir dil veya dilleri konuşabilmek şiddetle tercih edilir. Adayların takıma alınması ekip içerisinde gözden geçirilir ve tartışılır.
 
 ### Dikkate alınmak için neler yapılmalı
 
-Tavır ve davranışlar, aktiflik durumu, kurallara uyum, ve sabırlı olmak adaylık için en önemli faktörlerdendir:
+Tavır ve davranışlar, aktiflik durumu, [kurallara](/wiki/Rules) uyum, ve sabırlı olmak adaylık için en önemli faktörlerdendir:
 
 1. Diğer kullanıcılara karşı kibar ve saygılı davranarak olumlu tutumunuzu gösterebilirsiniz. Hesabınızı ciddi susturulma cezalarından veya problemlerden uzak tutmak çok önemlidir. 
-2. Oyun içerisindeki aktifliğinizi sohbet veya forum içerisindeki tartışmalara, muhabbetlere katılarak gösterin. Uygunsuz davranışları ve sorunları rapor sistemiyle rapor edin. Soruları cevaplayın, diğerlerinin sorunlarında onlara yardımcı olun. 
+2. Oyun içerisindeki aktifliğinizi sohbet veya forum içerisindeki tartışmalara, muhabbetlere katılarak gösterin. Uygunsuz davranışları ve sorunları [rapor sistemiyle rapor edin](/wiki/Reporting_Bad_Behaviour). Soruları cevaplayın, diğerlerinin sorunlarında onlara yardımcı olun. 
 3. [Kurallar](/wiki/Rules) ve nasıl uygulandığı hakkında doğru bir anlayışınız olsun. osu! içerisinde neyin kabul edilebilir neyin edilemez konusunda bilginizin olması önemlidir.
 4. Sabırlı olun. GMT sadece birkaç gün boyunca yardım eden kullanıcıları rastgele takıma almaz. GMT’nin kullanıcıları değerlendirmesi – onların kişiliği, hangi konuda yardımcı olabilirler, ne kadar aktifler vs. - biraz zaman alan bir süreçtir. 
 
-Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adına adaylar takım üyeler tarafından birkaç hafta gözlemlenir. Lütfen sabırlı olun ve aşırıya kaçmayın. Kurallar, kullanıcı raporlama, gibi her türlü sorunlarınızı GMT içerisindeki herhangi birisine sormaktan çekinmeyin.
+Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adına adaylar takım üyeleri tarafından birkaç hafta veya ay gözlemlenir. Lütfen sabırlı olun ve aşırıya kaçmayın. Kurallar, kullanıcı raporlama, gibi her türlü sorunlarınızı GMT içerisindeki herhangi birisine sormaktan çekinmeyin.
 
 ### Yapılmaması gereken bazı şeyler
 
@@ -43,64 +50,65 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 
 ## Takım üyeleri
 
-[Küresel Moderasyon Takımı grup sayfası](https://osu.ppy.sh/groups/4) tüm ekip üyelerini listeler.
-
 *Not: Tüm GMT üyeleri, aksi not edilmediği sürece, belirtilen dillerin yanısıra İngilizce de konuşabilirler.*
+
+[Küresel Moderasyon Takımı grup sayfası](https://osu.ppy.sh/groups/4) tüm ekip üyelerini listeler. Aşağıda belirtilen alanlara ek olarak, tüm GMT üyeleri [beatmaplerde bulunan görsel ve işitsel içeriklerin gözden geçirilmesinde](/wiki/Rules/Visual_Content_Considerations#resminizin-değerlendirilmesi) rol oynar.
 
 | İsim | Ek diller | Odak alanları |
 | :-- | :-- | :-- |
 | ![][flag_MY] [- [bibitaru] -](https://osu.ppy.sh/users/4482419) | Çince, Malay dili | Sohbet moderasyonu |
 | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985) | Almanca | Sohbet moderasyonu |
 | ![][flag_US] [abraker](https://osu.ppy.sh/users/4635891) |  | Forum moderasyonu |
-| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | Sohbet moderasyonu, beatmap moderasyonu |
+| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | Sohbet moderasyonu |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | Almanca | Sohbet moderasyonu |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | İspanyolca | Sohbet moderasyonu, forum moderasyonu, beatmap moderasyonu |
-| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  | Sohbet moderasyonu, teknik destek, beatmap moderasyonu |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | İspanyolca | Turnuvalar, beatmap moderasyonu |
+| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  | Sohbet moderasyonu, teknik destek |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | İspanyolca | Turnuvalar |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Teknik destek |
 | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | Portekizce, Japonca | Sohbet moderasyonu |
-| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) |  | Oyuncu desteği |
-| ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | Fransızca | Sohbet moderasyonu, forum moderasyonu, beatmap moderasyonu |
+| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) |  | Oyuncu desteği, wiki yönetimi |
+| ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | Fransızca | Sohbet moderasyonu, forum moderasyonu |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Lehçe | Sohbet moderasyonu |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Sohbet moderasyonu, beatmap moderasyonu |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | İspanyolca | Turnuvalar |
-| ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Kantonca, Çince, Japonca | Sohbet moderasyonu |
+| ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Kantonca, Çince, Japonca | Sohbet moderasyonu, beatmap moderasyonu |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Rusça | Sohbet moderasyonu, beatmap moderasyonu |
 | ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | Fransızca, Rusça | Sohbet moderasyonu |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Rusça | Sohbet moderasyonu |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Fince | Sohbet moderasyonu |
-| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Almanca | Beatmap moderasyonu |
+| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Almanca | Forum moderasyonu, beatmap moderasyonu |
 | ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | Çince | Sohbet moderasyonu |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu! geliştirme |
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Flemenkçe | Sohbet moderasyonu, forum moderasyonu |
-| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipince | Sohbet moderasyonu, forum moderasyonu, teknik destek, beatmap moderasyonu |
+| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipince | Sohbet moderasyonu, forum moderasyonu, teknik destek |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Fransızca | Sohbet moderasyonu |
-| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Almanca | Forum moderasyonu, beatmap moderasyonu |
+| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Almanca | Forum moderasyonu |
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Resmi takım temsilcisi |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filipince | Sohbet moderasyonu |
-| ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Almanca | Turnuvalar, beatmap moderasyonu |
-| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Fransızca | Sohbet moderasyonu, forum moderasyonu, beatmap moderasyonu |
+| ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Almanca | Turnuvalar |
+| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Fransızca | Sohbet moderasyonu, forum moderasyonu |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portekizce | Sohbet moderasyonu |
-| ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | İspanyolca | Sohbet moderasyonu, wiki yönetimi |
+| ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | İspanyolca | Sohbet moderasyonu |
 | ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | Almanca | Forum moderasyonu |
 | ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069) | Korece | Sohbet moderasyonu |
 | ![][flag_JP] [S o h](https://osu.ppy.sh/users/2234772) | Japonca | Sohbet moderasyonu |
-| ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | İsveççe, İspanyolca | Sohbet moderasyonu, beatmap moderasyonu |
+| ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | İsveççe, İspanyolca | Sohbet moderasyonu |
 | ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) | İtalyanca, Romence | Sohbet moderasyonu |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | Fransızca, İspanyolca | Sohbet moderasyonu |
-| ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | Endonezce | Sohbet moderasyonu, beatmap moderasyonu |
+| ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | Endonezce | Sohbet moderasyonu |
 | ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) | Çince | Sohbet moderasyonu |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Almanca, Sırpça | Sohbet moderasyonu, forum moderasyonu |
-| ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) | Rusça | Sohbet moderasyonu, beatmap moderasyonu, wiki yönetimi |
+| ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) | Rusça | Sohbet moderasyonu, wiki yönetimi |
 | ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | Korece | Sohbet moderasyonu |
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | Fransızca | Sohbet moderasyonu |
 | ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | Filipince | Sohbet moderasyonu |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | İspanyolca | Teknik destek |
 | ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | Lehçe | Sohbet moderasyonu |
-| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | İspanyolca | Turnuvalar, sohbet moderasyonu, beatmap moderasyonu, wiki yönetimi |
-| ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Lehçe | Sohbet moderasyonu, beatmap moderasyonu |
+| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | İspanyolca | Turnuvalar, sohbet moderasyonu, wiki yönetimi |
+| ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Lehçe | Sohbet moderasyonu |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) |  | Sohbet moderasyonu |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Türkçe, Almanca | Sohbet moderasyonu, beatmap moderasyonu |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |  | Sohbet moderasyonu |
 
 ### Dillere göre moderasyonun gruplandırılması
 

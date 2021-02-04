@@ -130,6 +130,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | osu! South East Asia Tournament | 2017-12-07 | 2018-02-04 | ![][flag_ID] [smh](https://osu.ppy.sh/users/1629553) | ![][flag_MY] [wuhua](https://osu.ppy.sh/users/2932510) | ![][flag_SG] [Elegant Loli](https://osu.ppy.sh/users/3010281) |
 | [osu! South East Asia Tournament 2](oSEAT/2) | 2018-11-30 | 2019-01-27 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106) | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) |
 | [osu! South East Asia Tournament 3](oSEAT/3) | 2019-12-14 | 2020-02-16 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | ![][flag_SG] [Rtyzen](https://osu.ppy.sh/users/2439822) | ![][flag_ID] [LoidKun](https://osu.ppy.sh/users/6437601) |
+| [osu! South East Asia Tournament 4](oSEAT/4) | 2020-11-07 | 2021-01-31 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | ![][flag_SG] [megumic](https://osu.ppy.sh/users/7537133) | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) |
 
 ### ![](/wiki/shared/mode/osu.png) osu! European Tournament
 
@@ -412,6 +413,13 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Score Attack Showdown](SAS/1) | 2020-10-26 | 2020-11-28 | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) | ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019) |
+
+### ![](/wiki/shared/mode/mania.png) Speed of Light
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Speed of Light Mania Tournament](SOL/2019) | 2019-11-23 | 2020-01-26 | ![][flag_PH] [**bojii**](https://osu.ppy.sh/users/10083439) | ![][flag_BR] [**andreymc**](https://osu.ppy.sh/users/5691061) | ![][flag_MY] [**cheewee10**](https://osu.ppy.sh/users/4477497) |
+| [Speed of Light 2: Lucha Libre Edition](SOL/2020) | 2020-11-14 | 2021-01-24 | regular team | World's Fastest Gamers | BOTTOM GEAR |
 
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu!Philippines Summer Tournament
 
